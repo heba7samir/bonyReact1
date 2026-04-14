@@ -1,0 +1,12 @@
+@import "./variables";
+@import "./pages//home/home.scss";
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: $bg-dark;
+    padding-inline: 1.25rem;
+    padding-block: 1.5rem;
+}
